@@ -53,13 +53,6 @@ To reduce noise and redundancy, the dataset is aggregated by averaging all measu
 | `Air.Temp`         | Air temperature (°C) |
 | `Sea.Surface.Temp` | Sea surface temperature (°C) |
 
----
-
-## 📊 Visualization
-
-A sample time series plot of **Average Sea Surface Temperature (°C)** over time reveals a **non-stationary series** with potentially heteroscedastic variance.
-
-> _Plot to be included here (e.g., `plots/sst_vs_time.png`)_
 
 ---
 
