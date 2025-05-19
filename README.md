@@ -1,8 +1,6 @@
 # 🌊 El Niño Sea Surface Temperature Modeling
 
-**Author:** Advay Kadam (`advayk2`)  
-**Course:** STAT 429  
-**Date:** March 28, 2025
+**Author:** Advay Kadam 
 
 ## 📌 Motivation
 
